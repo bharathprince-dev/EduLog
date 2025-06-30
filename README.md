@@ -109,7 +109,6 @@ EduLog is a full-stack web application that empowers students to manage and trac
 
 ### Backend Setup
 
-- ```bash
 - cd server
 - npm install
 - npm run dev
