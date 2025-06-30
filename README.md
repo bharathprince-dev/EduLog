@@ -127,3 +127,7 @@ EduLog is a full-stack web application that empowers students to manage and trac
 - PORT=8000
 - ADMIN_INVITE_TOKEN=your_admin_token
 
+---
+## Demo Video
+-https://drive.google.com/drive/folders/1kH6Ut0eo8fM6uRszPCgZ6wmsLR3tEWpN?usp=sharing
+
